@@ -7,10 +7,18 @@ Using a VEML6075 UV sensor to collect UV data that will then be displayed on a U
 
 
 # my setup
+
 Raspberry Pi 3
+
 Tall 40 pin GPIO addon (to raise it all above heatsink)
+
 GPIO expansion Hat (3 extra sets of 40 pin GPIO).
+
 UnicornHat HD
+
 VEML6075 UV sensor
+
 My python learning script
+
+..
 
