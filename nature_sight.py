@@ -13,6 +13,7 @@ from time import sleep
 unicornhathd.brightness(0.05)
 
 
+# Simulating UV readings in Int
 
 def var():
 	global x, y
@@ -20,7 +21,7 @@ def var():
 	y = random.randint(0, 15)
 
 
-
+# Setting the pixel from the UV reading. 
 
 def uvsensor(x, y):
 	uvar = x
@@ -39,7 +40,7 @@ def uvsensor(x, y):
 
 # Main 
 
-running = True
+running = True    # Easier to understand for newcomers
 try:
 	while running:
 			var()
