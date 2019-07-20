@@ -1,7 +1,7 @@
 # python
 My Python Learning Experience
 
-My objective is to learn about Python and make something I think is interesting.
+My objective is to learn about Python and make something I think is interesting. Armed with my the Internet and my willpower I set off to learn how to program, for the first time since highschool.
 
 Using a VEML6075 UV sensor to collect UV data that will then be displayed on a Unicornhat HD 16x16 LED panel.
 
