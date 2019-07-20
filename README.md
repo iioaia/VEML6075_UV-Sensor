@@ -12,11 +12,13 @@ Raspberry Pi 3
 
 Tall 40 pin GPIO addon (to raise it all above heatsink)
 
-GPIO expansion Hat (3 extra sets of 40 pin GPIO).
+GPIO expansion Hat (3 extra sets of 40 pin GPIO). Electronics-Salon brand
 
-UnicornHat HD
+UnicornHat HD, Pimoroni brand
 
-VEML6075 UV sensor
+VEML6075 UV sensor, Sparkfun Qwiic brand (Allows simple plug in connection for sensor to raspberry pi. No soldering)
+
+Qwiic GPIO adapter (Allows simple plug in connection for sensor to raspberry pi. No soldering)
 
 My python learning script
 
